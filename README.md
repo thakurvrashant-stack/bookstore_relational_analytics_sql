@@ -32,7 +32,7 @@ These tables form a structured relational database that allows efficient queryin
 
 ## 🔍 Business Questions Solved
 
-The project answers several real-world business questions using SQL:
+The project answers several real-world business questions using SQL, some of those are below:
 
 1. What are the **top selling books**?
 2. Which **customers generate the highest revenue**?
@@ -41,6 +41,7 @@ The project answers several real-world business questions using SQL:
 5. Which authors contribute the most to total sales?
 6. What are the **monthly sales trends**?
 7. Which books are rarely purchased?
+   and more...
 
 ---
 
