@@ -25,6 +25,7 @@ These tables form a structured relational database that allows efficient queryin
 ---
 
 ## 🧩 Entity Relationship Diagram
+An ER diagram (Entity-Relationship Diagram) is a visual representation of a database structure. It helps you understand how different pieces of data are connected before you create tables in SQL.
 
 ![ER Diagram](erd_diagram.png)
 
@@ -105,7 +106,7 @@ This project was built as part of my learning journey toward becoming a **Data A
 ## 👨‍💻 Author
 
 **Vrashant Singh**
-| Aspiring Data Analyst
+| Data Analyst
 | Delhi University Student
 
 
